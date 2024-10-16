@@ -132,5 +132,7 @@ public:
     }
 };
 ```
-For further questions or support, feel free to reach out via Telegram: @ExPat_all.
+
+## Contact
+For further questions or support, feel free to reach out via Telegram: @ExPat_all. 
 This `README.md` provides a structured overview of the class, its features, and how to use them. Let me know if you need any additional changes!
