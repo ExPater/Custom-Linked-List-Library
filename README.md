@@ -1,6 +1,4 @@
-# Custom-Linked-List-Library
-
-# List Class Template - README
+# Custom-Linked-List-Library - README.md
 
 This `List` class template is a singly linked list implementation in C++. The class supports a variety of functionalities, including adding, removing, finding, and manipulating elements. The class is designed to be flexible and can be used with any data type.
 
