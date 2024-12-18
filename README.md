@@ -137,5 +137,5 @@ public:
 For further questions or support, feel free to reach out via Telegram: @ExPat_all. 
 This `README.md` provides a structured overview of the class, its features, and how to use them. Let me know if you need any additional changes!
 
-## Prblems
+## Problems
 This library working only with mscvs compiler in visual studio 2022, if you want to use this library with gpp or clang, you must to edit templates of classes.
